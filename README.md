@@ -1,2 +1,2 @@
 # udacity-lecture
-machine learning course
+machine learning course program and lecture 
